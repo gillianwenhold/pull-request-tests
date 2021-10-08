@@ -3,4 +3,6 @@
 This is a repository to test making pull requests. It has been contributed to by:
 
 Gillian Wenhold
+Jelena Durovic- Montegero
+Dion Theroulde
 Kyle Schechter aka The Coding Body Builder
